@@ -1,1 +1,2 @@
-# -Algoritmos-de-pol-tica-monetaria
+# -Algoritmos-de-política-monetaria
+Los bancos centrales operan como programadores que ajustan sus algoritmos para mantener la estabilidad económica. Controlar la inflación implica subir tasas de interés, mientras que fomentar el crecimiento demanda reducirlas. Cada decisión genera impactos únicos, como errores o mejoras en un código. La flexibilidad es la clave para adaptarse a los desafíos económicos globales.
